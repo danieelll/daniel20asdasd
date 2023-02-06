@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @daniel20asdasd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me at my personal email danielmaala16@gmail.com
+<h1>Hello There! I am Daniel Maala 👋</h1>
+- 🌱 I’m currently in deep learning everything about programming.<br>
+- 📫 How to reach me ... you can contact me on my email: danielmaala16@gmail.com
 
 <!---
 daniel20asdasd/daniel20asdasd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
