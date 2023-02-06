@@ -1,4 +1,4 @@
-<h1>Hello There! I am Daniel Maala 👋</h1>
+<h1>Hello There! I am Daniel F. Maala 👋</h1>
 - 🌱 I’m currently in deep learning everything about programming.<br>
 - 📫 How to reach me ... you can contact me on my email: danielmaala16@gmail.com
 
